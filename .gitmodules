@@ -1,0 +1,3 @@
+[submodule "/Users/lava/Desktop/tun2socks/Sources/lwip"]
+	path = /Users/lava/Desktop/tun2socks/Sources/lwip
+	url = https://github.com/lwip-tcpip/lwip
